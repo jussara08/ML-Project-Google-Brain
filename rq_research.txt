@@ -44,4 +44,80 @@ ST Slope:
 * Typical price range in US: 200$ to 1 500$.
 
 
-Notes: Prices always depends on country wise and facility wise.
+
+* Resting Blood Pressure (RestingBP)
+  Purpose
+ Screens for hypertension (high blood pressure)
+ Assesses risk of:
+ Heart attack
+ Stroke
+ Kidney disease
+ Often first indicator of cardiovascular stress
+*  How It’s Done
+ Inflatable cuff placed on upper arm
+ Measures systolic & diastolic pressure
+ Takes 1–2 minutes
+ No preparation needed
+ Cost in  (USD)
+Setting	Cost
+Public healthcare (with prescription)	$0–$10
+Private clinic	$10–$25
+Usually included in a doctor visit.
+
+* Cholesterol Test (Lipid Panel)
+  Purpose
+Measures total cholesterol, LDL, HDL, triglycerides
+Evaluates risk of:
+Coronary artery disease
+Heart attack
+Stroke
+Used for preventive screening
+   How It’s Done
+Blood drawn from vein
+Sometimes requires 8–12 hour fasting
+Lab analyzes lipid levels
+* Cost in  (USD)
+Setting	Cost
+Public system (prescribed)	$0–$25
+Private lab	$25–$90
+Often part of a routine health panel.
+
+* Fasting Blood Sugar (FastingBS)
+* Purpose
+Screens for diabetes or prediabetes
+Detects abnormal glucose metabolism
+Important for cardiovascular risk modeling
+* How It’s Done
+8–12 hour fast required
+Blood sample taken
+Lab measures glucose level
+ Cost in USD
+Setting	Cost
+Public system	$0–$25
+Private lab	$20–$70
+Often bundled with metabolic panel.
+ 
+* Resting ECG (Electrocardiogram / EKG)
+ Purpose
+Detects:
+Arrhythmias
+Heart ischemia
+Previous heart attack
+Electrical abnormalities
+Used in ER for chest pain evaluation
+  * How It’s Done
+Electrodes placed on chest, arms, legs
+Patient lies still for 5–10 minutes
+Heart’s electrical activity recorded
+ Cost in  (USD)
+Setting	Cost
+Public system	$0–$45
+Private clinic	$45–$130
+ Total Typical Cardiac Workup Cost in  (USD)
+Public system (with referral):
+ $0 – $60 total out-of-pocket
+Private clinic:
+ $100 – $250 total
+
+
+
